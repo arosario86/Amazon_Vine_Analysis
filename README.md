@@ -4,8 +4,8 @@ Vine is a product that allows users and manufacturers to review ratings on vario
 ## Results
 I used Google colab as my jupyter notebook as well as PySpark to perform the ETL, extract the data, clean and transform, and connect it to my AWS RDS instance. Once completed, I attempted to load my data into my pgAdmin database. For whatever reason, my pgAdmin would not connect with my PySpark, no matter all of my trouble shooting.
 * During my Vine Review Analysis, I was able to see that there are a total of 4,864,249 total reviews.
-* * I broke up the review analysis by sold and unsold toys. The total votes for sold toys were 1266, while the total votes for unsold toys was 62,028.
+  * I broke up the review analysis by sold and unsold toys. The total votes for sold toys were 1266, while the total votes for unsold toys was 62,028.
 
 ![Vine_Reviews](https://user-images.githubusercontent.com/104965708/200471646-425f3596-3c21-451c-aa41-caf4161863b1.png)
 
-* * 
+  * 
