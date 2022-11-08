@@ -8,4 +8,7 @@ I used Google colab as my jupyter notebook as well as PySpark to perform the ETL
 
 ![Vine_Reviews](https://user-images.githubusercontent.com/104965708/200471646-425f3596-3c21-451c-aa41-caf4161863b1.png)
 
-  * 
+  * Of these reviews, 432 were five star reviews for sold toys, and 29,982 five star reviews for unsold toys.
+   * 834 of the five star reviews for sold toys were non-Vine, and 32,046 of the five star reviews for unsold toys were by non-Vine.
+   
+![Vine_Reviews_Totals](https://user-images.githubusercontent.com/104965708/200472156-054ea75b-efea-4979-a363-9ed0e84980ed.png)
